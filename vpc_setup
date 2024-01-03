@@ -1,0 +1,22 @@
+vpc_name: 'Softacid-vpc'
+
+#VPC Ranges
+vpcCidr: '172.20.0.0/16'
+#Subnet range
+PubSub1Cidr: 172.20.1.0/24
+PubSub2Cidr: 172.20.2.0/24
+PubSub3Cidr: 172.20.3.0/24
+PrivSub1Cidr: 172.20.4.0/24
+PrivSub2Cidr: 172.20.5.0/24
+PrivSub3Cidr: 172.20.6.0/24
+
+#Region name
+
+region: 'eu-west-1'
+#zone names
+zone1: 'eu-west-1a'
+zone2: 'eu-west-1b'
+zone3: 'eu-west-1c'
+
+
+state:present

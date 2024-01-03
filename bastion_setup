@@ -1,0 +1,4 @@
+bastion_ami: ami-02cad064a29d4550c
+region: eu-west-1
+MYIP: 86.45.80.166/32
+
